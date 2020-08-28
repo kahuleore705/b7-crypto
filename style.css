@@ -1,0 +1,52 @@
+ol .v {
+
+  list-style-type:none;
+
+}
+.itemname{
+overflow: auto;
+height: 870px;
+}
+#pimg{
+	width: 64px;
+}
+#back1{
+	padding: 0;
+}
+.sidenav {
+  height: 100%;
+  width: 16%;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 40px;
+}
+.sidenav a {
+  list-style-type: none;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+.sidenav a:hover {
+  border-bottom: 1px solid #f1f1f1;
+  color: #f1f1f1;
+}
+.backG{
+	padding: 0;
+	margin-top: 96px;
+}
+#back2{
+	padding: 0;
+}
+#A1{
+	padding: 0;
+	padding-left: 10px;
+}
+#White{
+	border-color: #000000;
+}
